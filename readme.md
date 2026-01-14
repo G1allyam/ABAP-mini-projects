@@ -110,7 +110,7 @@ Serve as a beginner-friendly ABAP portfolio
 Created by Marat Gallyamov
 ABAP Developer (Junior)
 
-##Possible Extensions
+## Possible Extensions
 
 Object-Oriented ABAP examples
 
